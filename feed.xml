@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Discovery+ Archives - DotMovies</title>
-	<atom:link href="https://dotmovies.guru/category/web-series/discovery/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raw.githubusercontent.com/surajmahato77/Feed/refs/heads/main/feed.xml" rel="self" type="application/rss+xml" />
 	<link>https://dotmovies.guru/category/web-series/discovery/</link>
 	<description>Download Latest Bollywood and South Hindi ORG Dubbed Movies &#38; Webseries</description>
 	<lastBuildDate>Thu, 01 Feb 2024 20:11:46 +0000</lastBuildDate>
